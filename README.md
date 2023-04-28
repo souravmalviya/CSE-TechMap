@@ -1,1 +1,1 @@
-<img src="img/CSE.png" alt="techmap" width="500" height="600">
+<img src="img/CSE.png" alt="techmap" width="600" height="550">
